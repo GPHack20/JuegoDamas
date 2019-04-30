@@ -1,0 +1,80 @@
+********************************************
+**      -------INSTRUCCIONES-------       **
+********************************************
+** REGLAS-------------------------------- **
+** El juego se rige a las reglas del      **
+** Checkers / Damas inglesas / Damas an-  **
+** gloamericanas las cuales son:          **
+** 1.- Las piezas suelen ser rojas o ne-  **
+** gras y blancas.                        **
+** 2.- Inician las negras o rojas.        **
+** 3.- Las damas se mueven como una pieza **
+** normal esto es, un cuadro diagonal ha- **
+** cia delante o hacia atras.             **
+** 4.- Es obligatorio capturar, no existe **
+** el soplido (si se realiza un movimien- **
+** to en vez de comer,no se retira una de **
+** las fichas que se puedan comer).       **
+** 5.- Ante dos opciones de captura, no   **
+** hace falta elegir la que captura más   **
+** piezas, ni de más rango. Esto sí, si   **
+** empezamos una captura y se puede conti-**
+** nuar, lo tenemos que hacer.            **
+** 6.- Si un jugador no puede mover, ha   **
+** perdido.                               **
+** -------------------------------------- **
+** OPCION 1  Jugar nueva partida!         **
+** -------------------------------------- **
+** 1.- Debe escribir nombre para la par-  **
+** da y los nombres de los jugadores.     **
+** 2.- Se visualizaran dos matrices, la   **
+** primera con las posiciones y la segun- **
+** da con la ubicacion de las fichas.     **
+** Ademas se visualizaran las representa- **
+** ciones que se le da a las fichas.      **
+** 3.- Debera ingresar posicion en X y Y  **
+** para situarse en la ficha que desea    **
+** mover, la cual cambiara su representa- **
+** cion.                                  **
+** 4.- Se pedira el numero de movimientos **
+** que desee que haga la ficha, estos se  **
+** realizaran siempre y cuando sean co-   **
+** rrectos, caso contrario se realizara   **
+** la misma peticion.                     **
+** 5.- Se repetiran el proceso a partir   **
+** del paso dos hasta que un jugadador se **
+** quede sin fichas o que los dos jugado  **
+** se queden con una sola ficha del mismo **
+** tipo.                                  **
+** -------------------------------------- **
+** OPCION 2  Partidas gravadas!           **
+** -------------------------------------- **
+** - Se visualizaran todas las partidas   **
+** incompletas, a las cuales si desea con-**
+** tinuarlas debe escribir el nombre e in-**
+** mediatamente se cargara la partida y   **
+** continuara con jugando.                **
+** -------------------------------------- **
+** OPCION 3  Registro!                    **
+** -------------------------------------- **
+** - En este apartado se vizualiran deta- **
+** lladamente las partidas jugadas, a las **
+** cuales se les dividira por partidas    **
+** finalizadas y no finalizadas (las no   **
+** finalizadas se pueden continuar en la  **
+** opcion 2).                             **
+** -------------------------------------- **
+** OPCION 4  Instrucciones!               **
+** -------------------------------------- **
+** - Se muestra la manera del funciona-   **
+** miento del juego.                      **
+** -------------------------------------- **
+** OPCION 5  Creditos!                    **
+** -------------------------------------- **
+** - Se muestra informacion relacionada   **
+** al creador del juego.                  **
+** -------------------------------------- **
+** OPCION 6  Salir!                       **
+** -------------------------------------- **
+** - Se sale del programa.                **
+********************************************
